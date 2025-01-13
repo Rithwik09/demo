@@ -1,9 +1,12 @@
 society-pass-backend/
 ├── src/
 │   ├── config/
+|   |     ├── mongo.ts
 │   ├── models/
+|   |     ├── User.ts
 │   ├── resolvers/
-│   ├── schemas/
+│   ├── Schemas/
+|   |     ├── schemas.ts
 │   ├── services/
 │   ├── utils/
 │   ├── index.ts
